@@ -1,8 +1,8 @@
 _Medium Beast, Unaligned_
 
-**HP:** 13 (3d8)
-**AC:** 12
-**Speed:** 40 ft., climb 40 ft.
+**HP:** 13 (3d8)<br>
+**AC:** 12<br>
+**Speed:** 40 ft., climb 40 ft.<br>
 
 |          | Str | Dex | Con | Int | Wis | Cha |
 | -------- | --- | --- | --- | --- | --- | --- |
@@ -10,10 +10,10 @@ _Medium Beast, Unaligned_
 | Modifier | -1  | +2  | 0   | +3  | -1  | +1  |
 | Save     | -1  | +4  | 0   | +5  | -1  | +1  |
 
-**Skills:** Arcana +6, Sleight of Hand +4
-**Senses:** Darkvision 60 ft.; Passive Perception 9
-**Languages:** None
-**CR:** 1/4
+**Skills:** Arcana +6, Sleight of Hand +4<br>
+**Senses:** Darkvision 60 ft.; Passive Perception 9<br>
+**Languages:** None<br>
+**CR:** 1/4<br>
 
 
 ### Traits
