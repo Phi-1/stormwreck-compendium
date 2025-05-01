@@ -1,0 +1,1 @@
+As an action, you can throw this at a creature. Make a ranged attack (range 20/60), adding your proficiency bonus to the roll. On a hit, your target takes 1 radiant damage and has the Charmed condition until the start of your next turn. They appear dazed and slightly confused about where they are.
