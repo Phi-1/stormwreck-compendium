@@ -1,8 +1,8 @@
 _Medium Beast, Unaligned_
 
-*HP:* 13 (3d8)
-*AC:* 12
-*Speed:* 40 ft., climb 40 ft.
+**HP:** 13 (3d8)
+**AC:** 12
+**Speed:** 40 ft., climb 40 ft.
 
 |          | Str | Dex | Con | Int | Wis | Cha |
 | -------- | --- | --- | --- | --- | --- | --- |
@@ -10,21 +10,23 @@ _Medium Beast, Unaligned_
 | Modifier | -1  | +2  | 0   | +3  | -1  | +1  |
 | Save     | -1  | +4  | 0   | +5  | -1  | +1  |
 
-*Skills:* Arcana +6, Sleight of Hand +4
-*Senses:* Darkvision 60 ft.; Passive Perception 9
-*Languages:* None
-*CR:* 1/4
+**Skills:** Arcana +6, Sleight of Hand +4
+**Senses:** Darkvision 60 ft.; Passive Perception 9
+**Languages:** None
+**CR:** 1/4
+
 
 ### Traits
 ---
-*Elusive:* the Calygraunt is immune to Enchantment and Divination magic, as well as mind-reading or influencing psionics.
+**Elusive:** the Calygraunt is immune to Enchantment and Divination magic, as well as mind-reading or influencing psionics.
 
-*Magic Sense:* the Calygraunt can sense magical items within 60 feet of it.
+**Magic Sense:** the Calygraunt can sense magical items within 60 feet of it.
+
 
 ### Actions
 ---
-*Identify (1/Day):* the Calygraunt learns the properties of a magical item within 20 feet of it, similar to the effects of the Identify spell. After identifying a magical item, if the item has any properties that are activated by actions, bonus actions, or reactions, the Calygraunt can use its action to activate those properties.
+**Identify (1/Day):** the Calygraunt learns the properties of a magical item within 20 feet of it, similar to the effects of the Identify spell. After identifying a magical item, if the item has any properties that are activated by actions, bonus actions, or reactions, the Calygraunt can use its action to activate those properties.
 
-*Antlers:* Melee Attack Roll: +0, reach 5 ft. _Hit:_ 2 (1d6 - 1) Bludgeoning damage. A Small or Tiny creature is Restrained (escape DC 12) until the Calygraunt moves or otherwise lifts its antlers.
+**Antlers:** Melee Attack Roll: +0, reach 5 ft. _Hit:_ 2 (1d6 - 1) Bludgeoning damage. A Small or Tiny creature is Restrained (escape DC 12) until the Calygraunt moves or otherwise lifts its antlers.
 
-*Claws:* Melee Attack Roll: +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Slashing damage.
+**Claws:** Melee Attack Roll: +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Slashing damage.
