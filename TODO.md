@@ -1,3 +1,2 @@
 - book of the hunt rework
-- calygraunt stat block
 - oz cat feat
